@@ -1,0 +1,2 @@
+# principais_ferramentas_da_qualidade
+atividade principais ferramentas da qualidade
